@@ -1,0 +1,161 @@
+state,race,sex,mean_LE
+Alabama,black,Female,73.60135426825796
+Alabama,black,Male,65.10157895298795
+Alabama,white,Female,78.07566263582157
+Alabama,white,Male,70.91993609837515
+Arizona,black,Female,76.09302776111112
+Arizona,black,Male,68.88228118177778
+Arizona,white,Female,79.98606002866667
+Arizona,white,Male,73.27352780244445
+Arkansas,black,Female,73.96645864733334
+Arkansas,black,Male,65.59649817711112
+Arkansas,white,Female,78.57205103266666
+Arkansas,white,Male,71.38480061533333
+California,black,Female,74.97004958615115
+California,black,Male,67.65198219553196
+California,white,Female,79.68444272338505
+California,white,Male,73.46932170287542
+Colorado,black,Female,76.25229371377777
+Colorado,black,Male,69.85177767911111
+Colorado,white,Female,79.96750121111111
+Colorado,white,Male,74.00178146422222
+Connecticut,black,Female,76.42300736066667
+Connecticut,black,Male,68.41546122066667
+Connecticut,white,Female,80.32709717977778
+Connecticut,white,Male,74.34535589777778
+Delaware,black,Female,74.13590686911111
+Delaware,black,Male,66.80123923355555
+Delaware,white,Female,78.84892397155555
+Delaware,white,Male,72.78500827155555
+Florida,black,Female,74.29028942155556
+Florida,black,Male,66.29496187844444
+Florida,white,Female,80.41723388311111
+Florida,white,Male,73.4420539948889
+Georgia,black,Female,73.93741448044445
+Georgia,black,Male,65.68054824844444
+Georgia,white,Female,78.64943046133334
+Georgia,white,Male,71.62686631666666
+Illinois,black,Female,73.12297356377778
+Illinois,black,Male,64.32654859355556
+Illinois,white,Female,79.19111018555556
+Illinois,white,Male,72.97562008844444
+Indiana,black,Female,73.84331265422222
+Indiana,black,Male,66.14533552111111
+Indiana,white,Female,78.56980016044444
+Indiana,white,Male,72.26818717711112
+Iowa,black,Female,74.52755736888889
+Iowa,black,Male,68.04038016733334
+Iowa,white,Female,80.37181035
+Iowa,white,Male,73.88373663222222
+Kansas,black,Female,74.107078408
+Kansas,black,Male,67.33529846377778
+Kansas,white,Female,79.80794630866667
+Kansas,white,Male,73.49743403933333
+Kentucky,black,Female,73.58265622666667
+Kentucky,black,Male,66.43791489333333
+Kentucky,white,Female,77.82403906666667
+Kentucky,white,Male,70.78608778666667
+Louisiana,black,Female,73.14478024333333
+Louisiana,black,Male,64.90694083066667
+Louisiana,white,Female,78.16427539844445
+Louisiana,white,Male,71.12264516533334
+Maryland,black,Female,74.84383929533334
+Maryland,black,Male,66.595492506
+Maryland,white,Female,79.219643322888885
+Maryland,white,Male,73.261317722
+Massachusetts,black,Female,77.62093088888889
+Massachusetts,black,Male,69.87834020511112
+Massachusetts,white,Female,79.79078297755555
+Massachusetts,white,Male,73.61151966622222
+Michigan,black,Female,73.620210202
+Michigan,black,Male,65.11386797622222
+Michigan,white,Female,78.97316858933333
+Michigan,white,Male,72.96438359888889
+Minnesota,black,Female,76.89243404222222
+Minnesota,black,Male,70.18346498
+Minnesota,white,Female,80.94759621355556
+Minnesota,white,Male,74.79435670866667
+Mississippi,black,Female,73.37155929822222
+Mississippi,black,Male,65.25660483933333
+Mississippi,white,Female,78.21813798222222
+Mississippi,white,Male,70.58560239977778
+Missouri,black,Female,73.59669703244444
+Missouri,black,Male,64.74379656044444
+Missouri,white,Female,78.83566008777778
+Missouri,white,Male,72.28872556066666
+Nebraska,black,Female,73.32455712444444
+Nebraska,black,Male,67.438656514
+Nebraska,white,Female,80.30765076977778
+Nebraska,white,Male,73.93577771955556
+Nevada,black,Female,74.75136711711112
+Nevada,black,Male,68.037448274
+Nevada,white,Female,78.02767437777779
+Nevada,white,Male,71.6184344728889
+New Jersey,black,Female,74.21774177466666
+New Jersey,black,Male,66.31786230444445
+New Jersey,white,Female,79.43918344822222
+New Jersey,white,Male,73.59157040911111
+New Mexico,black,Female,76.96681029133333
+New Mexico,black,Male,70.64639197555556
+New Mexico,white,Female,79.48709439777778
+New Mexico,white,Male,72.57054260088888
+New York,black,Female,75.91802031377777
+New York,black,Male,67.48521015466666
+New York,white,Female,79.29023031733334
+New York,white,Male,73.14879924155555
+North Carolina,black,Female,74.30005627
+North Carolina,black,Male,65.50673991355555
+North Carolina,white,Female,79.21437084733333
+North Carolina,white,Male,72.17463561
+Ohio,black,Female,74.049863778
+Ohio,black,Male,66.44557582711111
+Ohio,white,Female,78.54284496555556
+Ohio,white,Male,72.47063243844444
+Oklahoma,black,Female,73.91200250155556
+Oklahoma,black,Male,66.83038536533333
+Oklahoma,white,Female,78.09508015577778
+Oklahoma,white,Male,71.31215960377777
+Oregon,black,Female,75.81022023666667
+Oregon,black,Male,68.13242175666666
+Oregon,white,Female,79.52927145222222
+Oregon,white,Male,73.41662637711111
+Pennsylvania,black,Female,73.41791057355556
+Pennsylvania,black,Male,64.73386827888889
+Pennsylvania,white,Female,78.92112959266666
+Pennsylvania,white,Male,72.64817083244445
+Rhode Island,black,Female,76.6326525668889
+Rhode Island,black,Male,69.34281648044444
+Rhode Island,white,Female,79.73943354755555
+Rhode Island,white,Male,73.38268064911111
+South Carolina,black,Female,73.78834114555555
+South Carolina,black,Male,64.96062869977777
+South Carolina,white,Female,78.64635679044444
+South Carolina,white,Male,71.50382781311112
+Tennessee,black,Female,73.20770714733334
+Tennessee,black,Male,65.286694922
+Tennessee,white,Female,78.4400156851111
+Tennessee,white,Male,71.28777440711112
+Texas,black,Female,74.52455207111112
+Texas,black,Male,66.81923351622223
+Texas,white,Female,79.20970991333333
+Texas,white,Male,72.463282424
+Virginia,black,Female,74.48233874444445
+Virginia,black,Male,66.79644139
+Virginia,white,Female,79.40702803511111
+Virginia,white,Male,73.09426768355556
+Washington,black,Female,76.21104954422222
+Washington,black,Male,69.54678497866666
+Washington,white,Female,79.76575771888889
+Washington,white,Male,73.89945736222222
+Washington DC,black,Female,72.44367624777777
+Washington DC,black,Male,61.66022866066667
+Washington DC,white,Female,80.92215526644445
+Washington DC,white,Male,74.40097034155555
+West Virginia,black,Female,73.23092111644445
+West Virginia,black,Male,65.24189933044444
+West Virginia,white,Female,77.31378487955556
+West Virginia,white,Male,70.41640330311111
+Wisconsin,black,Female,74.84331009777777
+Wisconsin,black,Male,67.79069093088889
+Wisconsin,white,Female,80.13770954644444
+Wisconsin,white,Male,74.03558172177777
